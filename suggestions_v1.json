@@ -1,0 +1,182 @@
+{
+    "version": 1,
+
+    "suggestions": [
+        {
+            "id": 1,
+            "length": 20,
+            "text": "Take a walk in the Arberatum",
+
+            "excluded_times": 
+            {
+                "months": [1, 2, 3, 11, 12],
+                "hours":  [21, 22, 23, 0, 1, 2, 3, 4, 5]
+            }
+        },
+        {
+            "id": 2,
+            "length": 20,
+            "text": "Go for a Walk",
+
+            "excluded_times": 
+            {
+                "months": [1, 2, 3, 11, 12],
+                "hours":  [21, 22, 23, 0, 1, 2, 3, 4, 5]
+            }
+        },
+        {
+            "id": 1,
+            "length": 5,
+            "text": "Watch a cat video"
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Read a news article"
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        },
+        {
+            "id": 1,
+            "length": 3,
+            "text": "Get a coffee at the Bullring",
+
+            "subtext": "[Bullring Homepage](www.example.com)",
+
+            "price": 2,
+            "excluded_times": 
+            {
+                "months": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "days":   [1, 1, 1, 1, 1, 1, 1],
+                "hours":  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+                           1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+            }
+        }
+    ]
+}
