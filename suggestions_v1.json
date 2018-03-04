@@ -43,19 +43,27 @@
 
         {
             "text": "Watch a cat video.",
-            "subtext": "link",
-            "length": 5
+            "subtext": "Try this one!",
+            "length": 5,
+            "choose": [
+                { 
+                    "_comment": "Can override any parent element",
+                    "subtext": "This cat is so cute!",
+                    "link": "https://www.youtube.com/watch?v=IytNBm8WA1c" 
+                },
+                {   "link": "https://www.youtube.com/watch?v=nTasT5h0LEg" }
+            ]
         },
 
         {
             "text": "Read a news article.",
-            "subtext": "link",
+            "extra": "link",
             "length": 5
         },
 
         {
             "text": "Make a snack.",
-            "subtext": "link",
+            "extra": "link",
             "length": 10
         },
 
@@ -85,19 +93,19 @@
 
         {
             "text": "Listen to some music.",
-            "subtext": "link",
+            "extra": "link",
             "length": 5
         },
 
         {
             "text": "Try some meditation.",
-            "subtext": "link",
+            "extra": "link",
             "length": 10
         },
 
         {
             "text": "Get up and dance!",
-            "subtext": "link",
+            "extra": "link",
             "length": 5
         },
 
@@ -117,7 +125,7 @@
         },
 
         {
-            "text": "Phone a friend",
+            "text": "Phone a friend.",
             "length": 5,
             "excluded_times": {
                 "hours": [21, 22, 23, 0, 1, 2, 3, 4, 5]
@@ -125,13 +133,13 @@
         },
 
         {
-            "text": "Take a quick shower",
+            "text": "Take a quick shower.",
             "length": 20
         },
 
         {
             "text": "Draw something!",
-            "subtext": "link",
+            "extra": "link",
             "length": 5
         }
     ]
